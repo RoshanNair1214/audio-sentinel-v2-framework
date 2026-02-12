@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RoshanNair1214/audio-sentinel-v2-framework/blob/main/notebooks/AI_Audio_Classifier.ipynb)
 # Audio-Sentinel V2: High-Fidelity Synthetic Voice Detection Framework
 
 **An advanced Deep Learning infrastructure for distinguishing authentic human speech from AI-generated audio and biometric deepfakes.**
